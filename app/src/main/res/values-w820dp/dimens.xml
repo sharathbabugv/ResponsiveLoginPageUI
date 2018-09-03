@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">64dp</dimen>
+    <dimen name="margin_short">32dp</dimen>
+    <!-- for larger screens -->
+</resources>
